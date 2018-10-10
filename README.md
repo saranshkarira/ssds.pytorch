@@ -71,8 +71,8 @@ In fact, the speed of vgg is super impress me. Maybe it is caused by MobilenetV1
 - visualize the loss during the training progress and meanAP during the eval progress (terminal & tensorboard)
 ![train process](./doc/imgs/train_process.jpg)
 
-- visualize archor box for each feature extractor (tensorboard)
-![archor box](./doc/imgs/archor_box.jpg)
+- visualize anchor box for each feature extractor (tensorboard)
+![anchor box](./doc/imgs/archor_box.jpg)
 
 - visualize the preprocess steps for training (tensorboard)
 ![preprocess](./doc/imgs/preprocess.jpg)
